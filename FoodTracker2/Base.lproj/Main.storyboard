@@ -52,7 +52,7 @@
                                             <outletCollection property="gestureRecognizers" destination="Ejy-Gc-YLJ" appends="YES" id="L1R-xE-Chr"/>
                                         </connections>
                                     </imageView>
-                                    <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="J5b-4I-1xj" customClass="RatingControl" customModule="FoodTracker2" customModuleProvider="target">
+                                    <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="J5b-4I-1xj" customClass="RatingControl" customModule="FoodTracker2" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="400.5" width="200" height="50"/>
                                     </stackView>
                                 </subviews>
