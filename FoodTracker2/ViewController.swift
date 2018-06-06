@@ -52,7 +52,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIImagePickerContro
     // MARK : Actions
     
     
-    @IBAction func selectImageFromPhotoLibrary(_ sender: UITapGestureRecognizer) {
+    @IBAction func selectedImageFromPhotoLibrary(_ sender: UITapGestureRecognizer) {
         // Hide the keyboard.
         nameTextField.resignFirstResponder()
         

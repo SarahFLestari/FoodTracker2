@@ -14,6 +14,7 @@
 		10B0B6B720C7A36B0063C984 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10B0B6B620C7A36B0063C984 /* Assets.xcassets */; };
 		10B0B6BA20C7A36B0063C984 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10B0B6B820C7A36B0063C984 /* LaunchScreen.storyboard */; };
 		10B0B6C520C7A36B0063C984 /* FoodTracker2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B0B6C420C7A36B0063C984 /* FoodTracker2Tests.swift */; };
+		10B0B6D020C7DE8F0063C984 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B0B6CF20C7DE8F0063C984 /* RatingControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		10B0B6C020C7A36B0063C984 /* FoodTracker2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTracker2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		10B0B6C420C7A36B0063C984 /* FoodTracker2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTracker2Tests.swift; sourceTree = "<group>"; };
 		10B0B6C620C7A36B0063C984 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10B0B6CF20C7DE8F0063C984 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				10B0B6AC20C7A3690063C984 /* AppDelegate.swift */,
 				10B0B6AE20C7A3690063C984 /* ViewController.swift */,
+				10B0B6CF20C7DE8F0063C984 /* RatingControl.swift */,
 				10B0B6B020C7A3690063C984 /* Main.storyboard */,
 				10B0B6B620C7A36B0063C984 /* Assets.xcassets */,
 				10B0B6B820C7A36B0063C984 /* LaunchScreen.storyboard */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10B0B6D020C7DE8F0063C984 /* RatingControl.swift in Sources */,
 				10B0B6B520C7A3690063C984 /* FoodTracker2.xcdatamodeld in Sources */,
 				10B0B6AF20C7A3690063C984 /* ViewController.swift in Sources */,
 				10B0B6AD20C7A3690063C984 /* AppDelegate.swift in Sources */,
