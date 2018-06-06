@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Allows you to add photos to your meals</string>
 </dict>
 </plist>
